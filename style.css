@@ -1,1 +1,18 @@
-5a
+body{
+background-color:aqua;
+color:black;
+font-family:blue;
+margin:opx;
+h1 {
+    color:beige;
+    font-size:40px;
+}
+p{
+    font-size:25px;
+}
+header{
+    border-bottom:chartreuse;
+    margin: 2px;
+    padding: 10px;
+    color:darkviolet;
+}
