@@ -15,4 +15,17 @@ header{
     margin: 2px;
     padding: 10px;
     color:darkviolet;
+
+}
+.chámada{
+    background-color: cyan;
+    padding:80px;
+    display: flex;
+    justify-content: center;
+}
+.chámada-texto{
+    marking-rigth:8%;
+}
+img{
+    height: 200px;
 }
